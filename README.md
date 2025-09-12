@@ -1,5 +1,3 @@
-# Portifolho-FATEC
-
 # Portfólio de Projetos - Fatec Jacareí
 ### Aluno: Matheus Venancio Moreira Sales
 ### Curso: Desenvolvimento de Software Multiplataforma
@@ -8,5 +6,5 @@
 ---
 
 ### Portfólio Online  
-🔗 [Acesse o Portfólio](https://matheussales95.github.io/Portifolho-FATEC/)
+🔗 [Acesse o Portfólio]()
 🎤 [Pitch de Apresentação (vídeo)](LINK_PARA_VIDEO_NO_TEAMS)
