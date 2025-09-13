@@ -7,4 +7,4 @@
 
 ### Portfólio Online  
 🔗 [Acesse o Portfólio](https://matheussales95.github.io/Portfolio-2DSM/)
-🎤 [Pitch de Apresentação (vídeo)](assets/images/MicrosoftTeams-video.mp4)
+🎤 [Pitch de Apresentação (vídeo)](https://youtu.be/dUQu7O4DJss)
